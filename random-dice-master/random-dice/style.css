@@ -1,0 +1,20 @@
+.title {
+    color: rebeccapurple;
+    font-size: 10vw;
+    text-align: center;
+    padding: 0;
+}
+
+.dice {
+    text-align: center;
+}
+
+.diceimg {
+    width: 300px;
+    padding: 3vw;
+}
+
+.button {
+    margin: auto;
+    text-align: center;
+}
